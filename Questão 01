@@ -4,5 +4,3 @@ for(let i = 1; i <= 6; i++) {
     console.log(linha)
 }
 
-a entrada é colocando: i <= 6.
-O algoritmo foi criado em JavaScritp
